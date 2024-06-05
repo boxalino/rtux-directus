@@ -50,3 +50,11 @@ TODO
 /tests/blackbox/sequencer-data.json
 /packages/extensions-sdk/temp-extension-*/
 /docs/packages/
+
+#SETUP
+/access
+/uploads
+/extensions
+/logs
+/snapshots
+/.docker
